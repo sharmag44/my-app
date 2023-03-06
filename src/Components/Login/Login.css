@@ -1,14 +1,17 @@
 .login{
-    height: 100px;
-     margin:2 0.5em;
-     padding: 0 0.5em;
+     background: transparent linear-gradient(180deg,#efebfc 0%,#e6ebf4 100%) 0% 0% no-repeat padding-box;
+     height: 100%;
+     
+    
 }
 .heading{
-    font-size: 2.7em;
-    padding:  0 1em;
+    font-size: 2.2em;
 
 }
 .sub-heading{
-    padding: 1em;
-   font-size: 2em;
+    padding: 1.8em 0;
+    font-size: 1.5em;
+}
+.text{
+    font-size: 1.2em;
 }
